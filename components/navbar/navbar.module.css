@@ -1,0 +1,44 @@
+.smNavbar{
+    height: 80px;
+    width: 100%;
+    padding: 0 32px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 30;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.smNavbarContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.smNavbarMenu li a:hover{
+    color: #009EDF !important;
+}
+.menuContainer{
+    height: calc(100vh - 56px);
+    background-color: #0D0D0D;
+    overflow: hidden;
+}
+.menuActive{
+    position: fixed;
+    top: 56px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+}
+.menuMobile{
+    height: inherit;
+}
+@media screen and (max-width: 1024px) {
+    .smNavbar{
+        height: 56px;
+        padding: 0 16px;
+    }
+}

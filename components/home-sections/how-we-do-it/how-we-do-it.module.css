@@ -1,0 +1,21 @@
+.howWeDoIt{
+    background-color: rgba(255,255,255, 0.1);
+    overflow: hidden;
+}
+.paragraph{
+    white-space: pre-line;
+}
+.cover{
+    position: relative;
+    box-shadow: 0px 0px 14px 0px rgba(55, 158, 222, 0.4);
+}
+@media screen and (min-width: 754px){
+    .columnLeft{
+        padding-right: 3rem;
+        padding-bottom: 3rem;
+    }
+    .columnRight{
+        padding-left: 3rem;
+        padding-top: 3rem;
+    }
+}

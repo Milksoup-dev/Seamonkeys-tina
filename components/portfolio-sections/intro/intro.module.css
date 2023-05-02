@@ -1,0 +1,29 @@
+.intro{
+    background-color: #0D0D0D;
+}
+.coverContainer{
+    height: 50vh;
+    text-align: center;
+    position: relative;
+}
+.cover{
+    object-fit: cover;
+    object-position: top;
+    height: inherit;
+    aspect-ratio: 16/9;
+    width: 100%;
+    /* max-width: 1100px; */
+}
+/* .coverBg{
+    object-fit: cover;
+    object-position: top;
+    height: inherit;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    filter: blur(20px);
+} */

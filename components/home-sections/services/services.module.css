@@ -1,0 +1,17 @@
+.services{
+    background-color: #0D0D0D;
+}
+.padding{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+@media screen and (min-width: 754px) {
+    .cover{
+        min-height: 450px;
+        object-fit: cover;
+    }
+    .padding{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

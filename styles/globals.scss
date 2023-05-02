@@ -1,0 +1,9 @@
+@import "./reset.scss";
+@import "./theme.scss";
+@import "../node_modules/bulma/bulma.sass";
+@import "@creativebulma/bulma-tooltip";
+
+html, body{
+    scroll-behavior: smooth;
+    background-color: #0D0D0D;
+}

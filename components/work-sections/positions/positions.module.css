@@ -1,0 +1,15 @@
+.positions{
+    background-color: #2A2727;
+}
+.positions:nth-child(even){
+    background-color: #262323;
+}
+@media screen and (min-width: 1024px) {
+    .reverseColumns {
+        flex-direction: row-reverse;
+        display: flex;
+    }
+    .columns{
+        min-height: 35vh;
+    }
+}

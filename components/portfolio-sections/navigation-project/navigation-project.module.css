@@ -1,0 +1,22 @@
+.navigation{
+    background-color: rgba(255,255,255, 0.04);
+}
+.navigationProject{
+    background-color: #0D0D0D;
+}
+.prevNext{
+    background-color: rgba(255,255,255, 0.08);
+    width: 20vw;
+    font-size: 12px;
+    height: inherit;
+    cursor: pointer;
+}
+.prevNext:hover{
+    opacity: 0.8;
+}
+.link{
+    width: 100%;
+}
+.hide{
+    visibility: hidden;
+}

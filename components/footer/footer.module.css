@@ -1,0 +1,9 @@
+.footer{
+    background-color: #0D0D0D;
+}
+.footerCaption{
+    background-color: rgba(255,255,255, 0.05);
+}
+.socialIcon:hover{
+    opacity: 0.7;
+}
