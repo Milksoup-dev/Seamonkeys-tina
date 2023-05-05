@@ -21,7 +21,7 @@ export default function Positions({positions, lang}){
                                 </Fade>
                                 <Fade left={!(index % 2 == 0)} right={index % 2 == 0}>
                                 <div className="column has-text-centered is-hidden-touch">
-                                    <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto,c_scale,h_150${item.icon}`} alt={`${item.title}-icon`}/>
+                                    <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto,c_scale,h_150${item.icon.split('upload')[1]}`} alt={`${item.title}-icon`}/>
                                 </div>
                                 </Fade>
                             </div>

@@ -14,7 +14,7 @@ export default function PartnersSection({data, lang}){
                         {data.brand.map(item => 
                             <div key={item.brand} className="mx-2">
                                 <a href={item.link} rel="nofollow">
-                                    <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${item.logo}`} alt={item.brand} />
+                                    <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.logo.split('upload')[1]}`} alt={item.brand} />
                                 </a>
                             </div>
                         )}

@@ -13,7 +13,7 @@ export default function TeamSection({data, lang}){
                         <div className="column is-half">
                             <h2 className="title is-size-3-desktop is-size-4-mobile has-text-link mb-3 pt-2">{data.section_title[lang]}</h2>
                             <p className="has-text-white">{data.description[lang]}</p>
-                            <Link href="/work-with-us" locale={lang}>
+                            <Link href="/work-with-us" locale={lang} legacyBehavior>
                                 <a className="button is-link mt-5">{data.button.label[lang]}</a>
                             </Link>
                         </div>
@@ -26,7 +26,7 @@ export default function TeamSection({data, lang}){
                             <ul className="is-flex is-flex-wrap-wrap">
                                 {data.members.map(item => 
                                     <li key={item.name} className="mr-2 has-tooltip-bottom has-tooltip-link has-tooltip-arrow" data-tooltip={`${item.name}\n${item.qualification}`}>
-                                        <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${item.picture}`} alt={item.name} width={64} height={64} className={styles.teamImage} />
+                                        <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.picture.split('upload')[1]}`} alt={item.name} width={64} height={64} className={styles.teamImage} />
                                     </li>    
                                 )}
                             </ul>

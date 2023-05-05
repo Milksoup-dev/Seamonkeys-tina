@@ -21,7 +21,7 @@ export default function Footer({ contacts, socials, lang }) {
                         <p>
                             {socials.socials.map(item =>
                                 <a href={item.action} rel="nofollow" className="mx-1" key={item.label}>
-                                    <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${item.icon}`}
+                                    <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.icon.split('upload')[1]}`}
                                         alt={item.label}
                                         width={24}
                                         height={24}

@@ -18,14 +18,14 @@ export default function HowWeDoItSection({data, lang}){
                             </Fade>
                             <Fade right>
                                 <div className="column is-half is-relative">      
-                                        <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${data.paragraph_1.image}`} alt="how we do it - cover image" className={styles.cover}/>
+                                        <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${data.paragraph_1.image.split('upload')[1]}`} alt="how we do it - cover image" className={styles.cover}/>
                                 </div>
                             </Fade>
                     </div>
                     <div className="columns is-vcentered">
                         <Fade left>
                             <div className="column is-half is-hidden-mobile is-relative">
-                                <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${data.paragraph_2.image}`} alt="how we do it - cover image" className={styles.cover}/>
+                                <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${data.paragraph_2.image.split('upload')[1]}`} alt="how we do it - cover image" className={styles.cover}/>
                             </div>
                         </Fade>
                         <Fade right>

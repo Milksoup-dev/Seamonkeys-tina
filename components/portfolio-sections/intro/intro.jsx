@@ -8,7 +8,7 @@ export default function IntroSection({project, prev, next, lang}){
         <section className={`${styles.intro}`}>
             <Fade top>
                 <div className={`${styles.coverContainer} container`}>
-                    <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${project.media.cover}`} alt={`Cover image - ${project.title_tag[lang]}`} className={styles.cover} />
+                    <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${project.media.cover.split('upload')[1]}`} alt={`Cover image - ${project.title_tag[lang]}`} className={styles.cover} />
                     {/* <img src={`https://res.cloudinary.com/milksoup/image/upload/q_1,f_auto${project.media.cover}`} alt={`Cover image - ${project.title_tag[lang]}`} className={styles.coverBg} /> */}
                 </div>
                 <NavigationProject 

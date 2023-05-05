@@ -35,7 +35,7 @@ export default function PortfolioSection({portfolio, lang}) {
                         <SwiperSlide className={styles.slide} key={item.id}>
                             <CardPortfolio 
                                 title={item.project_name} 
-                                image={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${item.media.card_image.normal}`}
+                                image={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.media.card_image.normal.split('upload')[1]}`}
                                 id={item.id}
                                 lang={lang}
                                 languages={item.info.iso_codes}

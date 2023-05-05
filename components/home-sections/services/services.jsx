@@ -11,7 +11,7 @@ export default function ServicesSection({data, lang}) {
                 <div className="columns is-vcentered m-0">
                     <Fade left>
                         <div className="column p-0">
-                            <img src={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${data.image}`} alt="services cover image" className={styles.cover}/>
+                            <img src={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${data.image.split('upload')[1]}`} alt="services cover image" className={styles.cover}/>
                         </div>
                     </Fade>
                     <Fade right>

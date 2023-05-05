@@ -7,8 +7,7 @@ import "swiper/css/effect-fade"
 import CardPortfolio from '../../card-portfolio/card-portfolio'
 import Link from 'next/link'
 import Fade from 'react-reveal/Fade'
-import MouseAnimated from '../../icons/mouse-animated'
-import Lottie from 'react-lottie'
+import { Player, Controls } from '@lottiefiles/react-lottie-player';
 import * as animationData from '../../icons/mouse.json'
 
 
@@ -45,8 +44,8 @@ export default function Showreel({data, lang}){
                 {sortReelData.map((item) => 
                     <SwiperSlide key={item.id}>
                         <div className={styles.slide}>
-                            <video autoPlay={true} loop={true} className={styles.video} muted playsInline={true} disablePictureInPicture={true} poster={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${item.media.cover}`}>
-                                <source src={`https://res.cloudinary.com/milksoup/video/upload/f_auto,q_auto${item.media.video_reel}`}></source>
+                            <video autoPlay={true} loop={true} className={styles.video} muted playsInline={true} disablePictureInPicture={true} poster={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.media.cover.split('upload')[1]}`}>
+                                <source src={`https://res.cloudinary.com/seamonkeys/video/upload/f_auto,q_auto${item.media.video_reel}`}></source>
                                 Your browser doesn't support HTML5 video.
                             </video>
                             {/* Mobile */}
@@ -87,20 +86,24 @@ export default function Showreel({data, lang}){
                                                     <p className={`${styles.quote} has-text-white subtitle is-4 is-italic my-3`}>{item.quote[lang]}</p>
                                                 }
                                                 <p className="has-text-white subtitle is-4 is-italic has-text-weight-light">{item.quote.witness}</p>
-                                                {/* <MouseAnimated fill="white" width={32} height={32}/> */}
                                             </div>
                                         </div>
                                     </Fade>
                                     <div className={styles.mouseIcon}>
-                                        <Lottie options={defaultOptions}
-                                            height={32}
-                                            width={32}/>
+                                        <Player
+                                            autoplay
+                                            loop
+                                            src={animationData}
+                                            style={{ height: '32px', width: '32px' }}
+                                        >
+                                            <Controls visible={false} buttons={['play', 'repeat', 'frame', 'debug']} />
+                                        </Player>
                                     </div>
                                     <Fade right>
                                         <div className="column is-flex is-flex-direction-column is-align-items-center is-hidden-touch">
                                             <CardPortfolio 
                                                 title={item.project_name} 
-                                                image={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${item.media.card_image.normal}`}
+                                                image={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.media.card_image.normal.split('upload')[1]}`}
                                                 id={item.id}
                                                 lang={lang}
                                                 languages=''

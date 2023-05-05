@@ -1,37 +1,39 @@
 ---
-image: "/v1677666944/Seamonkeys/tag_image_1_h3vqhg.jpg"
+image: >-
+  https://res.cloudinary.com/seamonkeys/image/upload/v1683211107/Seamonkeys-website/meta/tag_image_1_h3vqhg_vmij8b.jpg
 info:
   client:
     it: Ubisoft
     en: Ubisoft
   period:
-    it: "2023"
-    en: "2023"
+    it: '2023'
+    en: '2023'
   iso_codes:
-  - IT
+    - IT
   registration_hours:
-    it: "---"
-    en: "---"
+    it: '---'
+    en: '---'
   dubbed_voices:
-    it: "---"
-    en: "---"
+    it: '---'
+    en: '---'
   translations:
     it:
-    - Italiano
+      - Italiano
     en:
-    - Italian
+      - Italian
   dubbing:
     it:
-    - "---"
+      - '---'
     en:
-    - "---"
+      - '---'
 reel_order: 3
 title_tag:
   it: 'Seamonkeys - The Settlers: New Allies'
   en: 'Seamonkeys - The Settlers: New Allies'
 description_tag:
-  it: 'Tutti i dettagli sull''adattamento di The Settlers: New Allies: lingue, parole,
-    voci, ore di registrazione.'
+  it: >-
+    Tutti i dettagli sull'adattamento di The Settlers: New Allies: lingue,
+    parole, voci, ore di registrazione.
   en: 'All the info about Watch Dogs: Legion localization.'
 project_name: 'The Settlers: New Allies'
 quote:
@@ -40,17 +42,24 @@ quote:
   witness: IGN
 media:
   trailer:
-    it: https://www.youtube.com/watch?v=1o__VfCAjns
-    en: https://www.youtube.com/watch?v=1o__VfCAjns
-  video_reel: "/v1677701678/Seamonkeys/video/showreel/The_Settlers_atcvte.mp4"
-  cover: "/v1677668459/Seamonkeys/cover_1_du8wh7.jpg"
+    it: 'https://www.youtube.com/watch?v=1o__VfCAjns'
+    en: 'https://www.youtube.com/watch?v=1o__VfCAjns'
+  video_reel: >-
+    /v1683214741/Seamonkeys-website/video/showreel/The_Settlers_atcvte_y7gw56.mp4
+  cover: >-
+    https://res.cloudinary.com/seamonkeys/image/upload/v1683211120/Seamonkeys-website/cover/the_settlers_new_allies_cover.jpg
   gallery:
-  - "/v1677668477/Seamonkeys/TSR_Screenshot4_Comeback_130122_5PM_CET_kn4ybm.jpg"
-  - "/v1677668477/Seamonkeys/TSR_Screenshot2_Comeback_130122_5PM_CET_prspxd.jpg"
-  - "/v1677668477/Seamonkeys/TSR_screen_arena_fight_190820_9am_CET_1566248330_gztdzb.jpg"
-  - "/v1677668477/Seamonkeys/TSR_New_Screenshot_Maru_Village_wlvpxs.jpg"
+    - >-
+      https://res.cloudinary.com/seamonkeys/image/upload/v1683211106/Seamonkeys-website/gallery/TSR_Screenshot4_Comeback_130122_5PM_CET_kn4ybm_ucldzq.jpg
+    - >-
+      https://res.cloudinary.com/seamonkeys/image/upload/v1683211103/Seamonkeys-website/gallery/TSR_Screenshot2_Comeback_130122_5PM_CET_prspxd_trqosm.jpg
+    - >-
+      https://res.cloudinary.com/seamonkeys/image/upload/v1683211107/Seamonkeys-website/gallery/TSR_screen_arena_fight_190820_9am_CET_1566248330_gztdzb_hjqei7.jpg
+    - >-
+      https://res.cloudinary.com/seamonkeys/image/upload/v1683211119/Seamonkeys-website/gallery/TSR_New_Screenshot_Maru_Village_bbqbmj_b1fbp7.jpg
   card_image:
-    normal: "/v1677668503/Seamonkeys/card-portfolio_1_yot9qj.jpg"
+    normal: >-
+      https://res.cloudinary.com/seamonkeys/image/upload/v1683211082/Seamonkeys-website/cards/card-portfolio_1_yot9qj_b7ehmu.jpg
 reel: true
-
 ---
+

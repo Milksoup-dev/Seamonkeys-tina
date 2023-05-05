@@ -15,7 +15,7 @@ export default function WorkWithUs({title, jobPositions, contacts, menu, socials
             <Fade top>
                 <section className="intro">
                     <div className="cover-container">
-                        <img src={`https://res.cloudinary.com/milksoup/image/upload${cover}`} alt="cover work with us" className="cover" />
+                        <img src={`https://res.cloudinary.com/seamonkeys/image/upload${cover.split('upload')[1]}`} alt="cover work with us" className="cover" />
                     </div>
                     <div className={`py-4 px-5 has-text-white title is-size-4-touch is-size-3-desktop has-text-centered m-0`}>{titlePositions[locale.locale]}</div>
                 </section>

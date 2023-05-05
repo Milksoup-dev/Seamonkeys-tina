@@ -20,14 +20,14 @@ export default function Meta({meta, lang}){
             <meta property="og:url" content={currentPath} />
             <meta property="og:title" content={meta.title[lang]} />
             <meta property="og:description" content={meta.description[lang]} />
-            <meta property="og:image" content={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${meta.image}`} />
+            <meta property="og:image" content={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${meta.image.split('upload')[1]}`} />
 
             {/* Twitter */}
             <meta property="twitter:card" content="summary_large_image" />
             <meta property="twitter:url" content={currentPath} />
             <meta property="twitter:title" content={meta.title[lang]} />
             <meta property="twitter:description" content={meta.description[lang]} />
-            <meta property="twitter:image" content={`https://res.cloudinary.com/milksoup/image/upload/f_auto,q_auto${meta.image}`} />
+            <meta property="twitter:image" content={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${meta.image.split('upload')[1]}`} />
 
             <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
         </Head>

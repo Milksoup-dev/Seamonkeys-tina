@@ -3,31 +3,36 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "NODE_ENV=development tinacms dev -c \"next dev\"",
+    "build": "tinacms build && next build",
+    "start": "tinacms build && next start",
     "lint": "next lint",
     "export": "next build && next export"
   },
   "dependencies": {
-    "bulma": "^0.9.3",
-    "framer-motion": "^4.1.17",
+    "@lottiefiles/react-lottie-player": "^3.5.3",
+    "@tinacms/auth": "^1.0.3",
+    "@tinacms/cli": "^1.5.10",
+    "bulma": "^0.9.4",
+    "framer-motion": "^10.12.7",
     "gray-matter": "^4.0.3",
-    "next": "11.1.2",
+    "next": "13.3.4",
+    "next-tinacms-cloudinary": "^4.3.0",
+    "npm-check-updates": "^16.10.9",
     "raw-loader": "^4.0.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-lottie": "^1.2.3",
-    "react-markdown": "^7.0.1",
-    "react-player": "^2.9.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
+    "react-player": "^2.12.0",
     "react-responsive": "*",
     "react-reveal": "^1.2.2",
-    "sass": "^1.42.1",
-    "swiper": "^7.0.8"
+    "sass": "^1.62.1",
+    "swiper": "^9.2.4",
+    "tinacms": "^1.5.3"
   },
   "devDependencies": {
     "@creativebulma/bulma-tooltip": "^1.2.0",
-    "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2"
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.4"
   }
 }
