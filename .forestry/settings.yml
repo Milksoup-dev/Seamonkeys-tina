@@ -1,0 +1,42 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Pagine
+- type: directory
+  path: content/home
+  label: Home
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/portfolio
+  label: Portfolio
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/work-with-us
+  label: Lavora con noi
+  create: all
+  match: "**/*"
+- type: heading
+  label: Partials
+- type: directory
+  path: content/partials
+  label: Partials
+  create: all
+  match: "**/*"
+upload_dir: Seamonkeys
+public_path: ''
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_output_directory: "/out"
+  install_dependencies_command: npm install
+  preview_docker_image: forestryio/node:12
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: npm run dev

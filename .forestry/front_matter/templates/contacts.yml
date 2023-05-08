@@ -1,0 +1,56 @@
+---
+label: contacts
+hide_body: true
+fields:
+- name: section_title
+  type: field_group
+  config: {}
+  fields:
+  - name: it
+    type: text
+    config:
+      required: false
+    label: IT
+  - name: en
+    type: text
+    config:
+      required: false
+    label: EN
+  label: Section title
+- name: company
+  type: text
+  config:
+    required: false
+  label: Company
+- name: registered_office
+  type: field_group
+  config: {}
+  fields:
+  - name: it
+    type: text
+    config:
+      required: false
+    label: IT
+  - name: en
+    type: text
+    config:
+      required: false
+    label: EN
+  label: registered office
+- name: partita_iva
+  type: text
+  config:
+    required: false
+  label: Partita iva
+- name: capitale_sociale
+  type: text
+  config:
+    required: false
+  label: Capitale sociale
+- name: rea_mi
+  type: text
+  config:
+    required: false
+  label: REA MI
+pages:
+- content/partials/contacts.md

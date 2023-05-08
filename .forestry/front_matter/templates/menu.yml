@@ -1,0 +1,53 @@
+---
+label: menu
+hide_body: true
+fields:
+- name: menu
+  type: field_group_list
+  fields:
+  - name: item
+    type: text
+    config:
+      required: false
+    label: Item
+    default: Item
+  - name: label
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+    label: Label
+  - name: action
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+    label: Action
+  - name: anchor
+    type: boolean
+    label: Anchor
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: menu
+pages:
+- content/partials/menu.md

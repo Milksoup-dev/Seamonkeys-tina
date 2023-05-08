@@ -1,0 +1,307 @@
+---
+label: project
+hide_body: true
+fields:
+- name: metatags
+  type: include
+  config: {}
+  template: metadata
+  label: Metatags
+- name: project_name
+  type: text
+  config:
+    required: false
+  label: Project name
+- name: quote
+  type: field_group
+  config: {}
+  fields:
+  - name: it
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: IT
+    description: Inserisci la citazione relativa al progetto
+  - name: en
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: EN
+    description: Enter the quote related to the project
+  - name: witness
+    type: text
+    config:
+      required: false
+    label: witness
+    description: Enter the name of the person who gave the testimony
+  label: Quote
+- name: media
+  type: field_group
+  config: {}
+  fields:
+  - name: trailer
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+      description: 'Inserisci qui il link del trailer '
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+      description: Enter the trailer link here
+    label: trailer
+  - name: video_reel
+    type: text
+    config:
+      required: false
+    label: Video Reel
+    description: Enter the video link here
+  - name: cover
+    type: file
+    config:
+      maxSize: 64
+    label: Cover
+    description: Upload an image for the project cover <em>(Recommend 1920×1080)</em>
+  - name: gallery
+    type: image_gallery
+    config: {}
+    label: Gallery
+    description: Enter the media related to the project here (max - 4 picture)
+  - name: card_image
+    type: field_group
+    config: {}
+    fields:
+    - name: normal
+      type: file
+      config:
+        maxSize: 64
+      label: normal
+    label: Card image
+    description: Insert the image for the portfolio card <em>(Recommend 378 × 628)</em>
+  label: Media
+- name: info
+  type: field_group
+  config: {}
+  fields:
+  - name: client
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+      description: Inserisci il nome del cliente
+      default: "---"
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+      description: Enter the customer's name
+      default: "---"
+    label: Client
+  - name: period
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+      default: "---"
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+      default: "---"
+    label: Period
+    description: Enter the year or production period of the project
+  - name: iso_codes
+    type: tag_list
+    default:
+    - IT
+    - EN
+    - FR
+    - DE
+    - ES
+    - ES-la
+    - CN
+    - CN-zh
+    - NL
+    - PL
+    - PT
+    - PT-br
+    - RU
+    label: ISO codes
+    description: Select | Uncheck the translation codes related to the project
+  - name: registration_hours
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+      description: Inserisci le ore di registrazione relative al progetto
+      default: "---"
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+      description: Enter the recording hours related to the project
+      default: "---"
+    label: Registration hours
+  - name: dubbed_voices
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: text
+      config:
+        required: false
+      label: IT
+      description: Inserisci il numero delle voci doppiate
+      default: "---"
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+      description: Enter the number of dubbed entries
+      default: "---"
+    label: Dubbed_voices
+  - name: translations
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: tag_list
+      default:
+      - Italiano
+      - Inglese
+      - Francese
+      - Tedesco
+      - Spagnolo
+      - Spagnolo latam
+      - Cinese tradizionale
+      - Cinese semplificato
+      - Olandese
+      - Polacco
+      - Portoghese
+      - Portoghese BR
+      - Russo
+      label: IT
+      description: Inserisci le lingue relative alle traduzioni del progetto
+    - name: en
+      type: tag_list
+      default:
+      - Italian
+      - English
+      - French
+      - German
+      - Spanish
+      - Spanish latam
+      - Traditional Chinese
+      - Simplified Chinese
+      - Dutch
+      - Polish
+      - Portuguese
+      - Portuguese BR
+      - Russian
+      label: EN
+      description: Enter the languages related to the translations of the project
+    label: Translations
+  - name: dubbing
+    type: field_group
+    config: {}
+    fields:
+    - name: it
+      type: tag_list
+      default:
+      - Italiano
+      - Inglese
+      - Francese
+      - Tedesco
+      - Spagnolo
+      - Spagnolo latam
+      - Cinese tradizionale
+      - Cinese semplificato
+      - Olandese
+      - 'Polacco '
+      - Portoghese
+      - Portoghese BR
+      - Russo
+      label: IT
+      description: Voci doppiate
+    - name: en
+      type: tag_list
+      default:
+      - Italian
+      - English
+      - French
+      - German
+      - Spanish
+      - Spanish latam
+      - Traditional Chinese
+      - Simplified Chinese
+      - Dutch
+      - Polish
+      - Portuguese
+      - Portuguese BR
+      - Russian
+      label: EN
+      description: dubbed voices
+    label: Dubbing
+  label: Info
+- name: reel
+  type: boolean
+  label: Reel
+  description: Enabling this option will add the project to the Showreel section.Before
+    enabling it, make sure that both the "quote" and "video_reel" have been inserted
+  hidden: false
+  default: false
+- name: reel_order
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Reel_order
+pages:
+- content/portfolio/Gerda.md
+- content/portfolio/assassins-creed-valhalla.md
+- content/portfolio/far-cry-6.md
+- content/portfolio/ghost-recon-breakpoint.md
+- content/portfolio/mariorabbidssparksofhope.md
+- content/portfolio/mighty-quest-for-the-epic-loot.md
+- content/portfolio/riders-republic.md
+- content/portfolio/roller-champions.md
+- content/portfolio/starlink-battle-for-atlas.md
+- content/portfolio/the-crew-2.md
+- content/portfolio/thesettlersnewallies.md
+- content/portfolio/twin-mirror.md
+- content/portfolio/valiantheartscominghome.md
+- content/portfolio/watch-dogs-legion.md

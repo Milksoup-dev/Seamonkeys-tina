@@ -1,0 +1,49 @@
+---
+label: metadata
+hide_body: true
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  description: Insert an image for sharing on social networks (recommended size 1200X628)
+  default: "/v1632414792/Seamonkeys/meta/tag_image_pce8ip.jpg"
+- name: title_tag
+  type: field_group
+  config: {}
+  fields:
+  - name: it
+    type: text
+    config:
+      required: false
+    label: IT
+  - name: en
+    type: text
+    config:
+      required: false
+    label: EN
+  label: Title tag
+- name: description_tag
+  type: field_group
+  config: {}
+  fields:
+  - name: it
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: IT
+  - name: en
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: EN
+  label: Description tag

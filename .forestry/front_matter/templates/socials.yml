@@ -1,0 +1,45 @@
+---
+label: socials
+hide_body: true
+fields:
+- name: section_title
+  type: field_group
+  config: {}
+  fields:
+  - name: it
+    type: text
+    config:
+      required: false
+    label: IT
+  - name: en
+    type: text
+    config:
+      required: false
+    label: EN
+  label: Section title
+- name: socials
+  type: field_group_list
+  fields:
+  - name: label
+    type: text
+    config:
+      required: false
+    label: label
+    default: facebook
+  - name: action
+    type: text
+    config:
+      required: false
+    label: action
+  - name: icon
+    type: file
+    config:
+      maxSize: 64
+    label: icon
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Socials
+pages:
+- content/partials/socials.md
