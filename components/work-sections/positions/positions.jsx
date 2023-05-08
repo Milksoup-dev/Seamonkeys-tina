@@ -12,12 +12,13 @@ export default function Positions({positions, lang}){
                     <section key={index} className={`py-6 px-4 ${styles.positions}`}>
                         <div className="container">
                             <div className={`columns is-vcentered ${!(index % 2 == 0) ? styles.reverseColumns : ''} ${styles.columns}`}>
-                                
                                     <div className="column">
                                         <Fade direction={index % 2 == 0 ? "left" : "right"} triggerOnce>
-                                            <h2 className="title is-size-3-desktop  is-size-5-mobile has-text-white mb-3">{item.title}</h2>
-                                            <p className="has-text-white-ter">{item.description}</p>
-                                            <a href={item.button.action} className="button is-link mt-5">{item.button.label}</a>
+                                            <div>
+                                                <h2 className="title is-size-3-desktop  is-size-5-mobile has-text-white mb-3">{item.title}</h2>
+                                                <p className="has-text-white-ter">{item.description}</p>
+                                                <a href={item.button.action} className="button is-link mt-5">{item.button.label}</a>
+                                            </div>
                                         </Fade>
                                     </div>
                                 <div className="column has-text-centered is-hidden-touch">
