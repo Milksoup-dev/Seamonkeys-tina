@@ -13,13 +13,13 @@
     "@emotion/react": "^11.11.0",
     "@lottiefiles/react-lottie-player": "^3.5.3",
     "@tinacms/auth": "^1.0.3",
-    "@tinacms/cli": "^1.5.10",
+    "@tinacms/cli": "^1.5.11",
     "bulma": "^0.9.4",
-    "framer-motion": "^10.12.7",
+    "framer-motion": "^10.12.8",
     "gray-matter": "^4.0.3",
-    "next": "13.3.4",
+    "next": "13.4.1",
     "next-tinacms-cloudinary": "^4.3.0",
-    "npm-check-updates": "^16.10.9",
+    "npm-check-updates": "^16.10.10",
     "raw-loader": "^4.0.2",
     "react": "18.2.0",
     "react-awesome-reveal": "^4.2.3",
@@ -28,12 +28,12 @@
     "react-player": "^2.12.0",
     "react-responsive": "*",
     "sass": "^1.62.1",
-    "swiper": "^9.2.4",
-    "tinacms": "^1.5.3"
+    "swiper": "^9.3.0",
+    "tinacms": "^1.5.4"
   },
   "devDependencies": {
     "@creativebulma/bulma-tooltip": "^1.2.0",
-    "eslint": "8.39.0",
-    "eslint-config-next": "13.3.4"
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.1"
   }
 }
