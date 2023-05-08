@@ -470,7 +470,55 @@ export function languagesFields() {
   ];
 }
 export function menuFields() {
-  return [];
+  return [
+    {
+      type: "object",
+      list: true,
+      name: "menu",
+      label: "Menu",
+      fields: [
+        {
+          type: "object",
+          name: "action",
+          label: "Action",
+          fields: [
+            {
+              type: "string",
+              name: "it",
+              label: "IT",
+            },
+            {
+              type: "string",
+              name: "en",
+              label: "EN",
+            },
+          ],
+        },
+        {
+          type: "object",
+          name: "label",
+          label: "Label",
+          fields: [
+            {
+              type: "string",
+              name: "it",
+              label: "IT",
+            },
+            {
+              type: "string",
+              name: "en",
+              label: "EN",
+            },
+          ],
+        },
+        {
+          type: "boolean",
+          name: "anchor",
+          label: "Anchor",
+        }
+      ]
+    }
+  ];
 }
 export function metadataFields() {
   return [
