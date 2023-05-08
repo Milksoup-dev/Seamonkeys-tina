@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 import WorldLang from '../icons/world-lang'
 import MenuIcon from '../icons/menu'
 import styles from './navbar.module.css'
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 
 
 export default function Navbar({data, lang}) {

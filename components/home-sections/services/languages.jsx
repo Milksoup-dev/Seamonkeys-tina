@@ -1,6 +1,6 @@
 import React from "react"
 import styles from './languages.module.css'
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 
 export default function LanguagesSection({data, lang}){
     const languages = data.languages
@@ -9,7 +9,7 @@ export default function LanguagesSection({data, lang}){
     return(
         <section id="languages" className={`${styles.languages} py-6 is-relative`}>
             <div className="container py-4 px-5">
-                <Fade bottom>
+                <Fade direction="up" triggerOnce>
                     <div className="columns is-vcentered">
                         <div className="column is-two-fifths">
                             <h3 className="title is-size-3-desktop is-size-4-mobile has-text-link mb-3">{data.section_title[lang]}</h3>

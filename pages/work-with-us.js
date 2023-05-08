@@ -3,7 +3,7 @@ import { getContacts, getSocials, getMenu } from '../lib/partials'
 import Footer from '../components/footer/footer'
 import Navbar from '../components/navbar/navbar'
 import Positions from "../components/work-sections/positions/positions"
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 
 export default function WorkWithUs({title, jobPositions, contacts, menu, socials, locale, cover, titlePositions}){
     return(
@@ -12,7 +12,7 @@ export default function WorkWithUs({title, jobPositions, contacts, menu, socials
                 data = {menu.menu}
                 lang = {locale.locale}
             />
-            <Fade top>
+            <Fade direction="down" triggerOnce>
                 <section className="intro">
                     <div className="cover-container">
                         <img src={`https://res.cloudinary.com/seamonkeys/image/upload${cover.split('upload')[1]}`} alt="cover work with us" className="cover" />

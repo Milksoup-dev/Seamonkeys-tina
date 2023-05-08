@@ -6,7 +6,7 @@ import Registration from "../../icons/registration"
 import Translate from "../../icons/translate"
 import Voices from "../../icons/voices"
 import Year from "../../icons/year"
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 
 export default function Info({project, lang}){
     const labels = {
@@ -40,8 +40,8 @@ export default function Info({project, lang}){
         <section className={`${styles.info} py-6`}>
             <div className="container">
                 <div className="columns">
-                    <Fade left>
-                        <div className="column px-6">
+                    <div className="column px-6">
+                        <Fade direction="left" triggerOnce>
                             <ul>
                                 {/* Client */}
                                 <li className="is-flex is-align-content-center">
@@ -72,10 +72,10 @@ export default function Info({project, lang}){
                                     </div>
                                 </li>
                             </ul>
-                        </div>
-                    </Fade>
-                    <Fade right>
-                        <div className="column px-6">
+                        </Fade>
+                    </div>
+                    <div className="column px-6">
+                        <Fade direction="right" triggerOnce>
                             <ul>
                                 {/* Dubbing */}
                                 <li className="is-flex is-align-content-center">
@@ -102,8 +102,8 @@ export default function Info({project, lang}){
                                     </div>
                                 </li>
                             </ul>
-                        </div>
-                    </Fade>
+                        </Fade>
+                    </div>
                 </div>
             </div>
         </section>

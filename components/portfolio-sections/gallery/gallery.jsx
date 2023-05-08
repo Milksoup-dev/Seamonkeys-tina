@@ -1,14 +1,14 @@
 import React from "react"
 import styles from "./gallery.module.css"
 import VideoPlayer from "../../videoPlayer/video-player"
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 
 export default function Gallery({gallery, trailer, lang}){
 
     return(
         <section className={`${styles.gallery} px-5 py-6`}>
             <div className="container">
-                <Fade bottom>
+                <Fade direction="up" triggerOnce>
                     <div className="columns">
                         <div className="column">
                             <div className={styles.galleryWrapperSquare}>

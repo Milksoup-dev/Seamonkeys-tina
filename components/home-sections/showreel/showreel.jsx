@@ -6,7 +6,7 @@ import 'swiper/css';
 import "swiper/css/effect-fade"
 import CardPortfolio from '../../card-portfolio/card-portfolio'
 import Link from 'next/link'
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 import { Player, Controls } from '@lottiefiles/react-lottie-player';
 import * as animationData from '../../icons/mouse.json'
 
@@ -49,7 +49,7 @@ export default function Showreel({data, lang}){
                                 Your browser doesn't support HTML5 video.
                             </video>
                             {/* Mobile */}
-                            <Fade top>
+                            <Fade triggerOnce>
                             <div className={`${styles.introMobile} p-5 is-hidden-desktop`}>
                                 <div className={`has-text-centered is-flex is-flex-direction-column is-justify-content-center is-align-items-center is-align-content-center`}>
                                     <h1 className="title is-4 has-text-white has-text-centered mb-3 mt-6 is-uppercase">{item.project_name}</h1>
@@ -66,7 +66,7 @@ export default function Showreel({data, lang}){
                                 </div>
                             </div>
                             </Fade>
-                            <Fade bottom>
+                            <Fade triggerOnce>
                                 <div className={`is-flex is-justify-content-center is-hidden-desktop p-3`}>
                                     <a className="prev-sr mr-1">
                                             <Prev width={24} height={24} fill='#fff'/>
@@ -79,16 +79,16 @@ export default function Showreel({data, lang}){
                             {/* Desktop */}
                             <div className={`${styles.intro} container is-hidden-touch py-6`}>
                                 <div className={`columns is-vcentered has-text-centered-touch is-flex`}>
-                                    <Fade left>
-                                        <div className={`column is-flex is-flex-direction-column is-justify-content-space-between`}>
+                                    <div className={`column is-flex is-flex-direction-column is-justify-content-space-between`}>
+                                        {/* <Fade direction="left"> */}
                                             <div>
                                                 {item.quote[lang] &&
                                                     <p className={`${styles.quote} has-text-white subtitle is-4 is-italic my-3`}>{item.quote[lang]}</p>
                                                 }
                                                 <p className="has-text-white subtitle is-4 is-italic has-text-weight-light">{item.quote.witness}</p>
                                             </div>
-                                        </div>
-                                    </Fade>
+                                        {/* </Fade> */}
+                                    </div>
                                     <div className={styles.mouseIcon}>
                                         <Player
                                             autoplay
@@ -99,8 +99,8 @@ export default function Showreel({data, lang}){
                                             <Controls visible={false} buttons={['play', 'repeat', 'frame', 'debug']} />
                                         </Player>
                                     </div>
-                                    <Fade right>
-                                        <div className="column is-flex is-flex-direction-column is-align-items-center is-hidden-touch">
+                                    <div className="column is-flex is-flex-direction-column is-align-items-center is-hidden-touch">
+                                        {/* <Fade direction='right' triggerOnce={true}> */}
                                             <CardPortfolio 
                                                 title={item.project_name} 
                                                 image={`https://res.cloudinary.com/seamonkeys/image/upload/f_auto,q_auto${item.media.card_image.normal.split('upload')[1]}`}
@@ -116,8 +116,8 @@ export default function Showreel({data, lang}){
                                                             <Next width={28} height={28} fill='#fff'/>
                                                     </a>
                                             </div>
-                                        </div>
-                                    </Fade>
+                                        {/* </Fade> */}
+                                    </div>
                                 </div>
                             </div>
                         </div>

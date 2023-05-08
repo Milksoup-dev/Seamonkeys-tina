@@ -1,12 +1,12 @@
 import React from "react"
 import styles from "./quote.module.css"
-import Fade from 'react-reveal/Fade'
+import { Fade } from "react-awesome-reveal"
 
 export default function Quote({project, lang}){
     if(project.quote[lang]){
         return(
             <section className={`${styles.quote} py-6 px-4 is-relative has-text-white has-text-centered is-italic`}>
-                <Fade top>
+                <Fade direction="down" triggerOnce>
                     <div className="container py-6">
                         <div className="columns is-centered">
                             <div className="column is-half">
