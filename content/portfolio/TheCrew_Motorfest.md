@@ -35,7 +35,7 @@ media:
       https://res.cloudinary.com/seamonkeys/image/upload/v1696244868/TCM_Screenshot6_120623_0815PMCEST_jrgwfq.jpg
   card_image:
     normal: >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211082/Seamonkeys-website/cards/card-portfolio_1_yot9qj_b7ehmu.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1696244371/TCM_Card_nelgso.jpg
 info:
   client:
     it: Ubisoft
