@@ -23,16 +23,16 @@ media:
   video_reel: >-
     /v1683214741/Seamonkeys-website/video/showreel/The_Settlers_atcvte_y7gw56.mp4
   cover: >-
-    https://res.cloudinary.com/seamonkeys/image/upload/v1683211120/Seamonkeys-website/cover/the_settlers_new_allies_cover.jpg
+    https://res.cloudinary.com/seamonkeys/image/upload/v1696244372/TCM_cover_ynxtbt.jpg
   gallery:
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211106/Seamonkeys-website/gallery/TSR_Screenshot4_Comeback_130122_5PM_CET_kn4ybm_ucldzq.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1696244930/TCM_GameInfo_3_V2_1_mddqux.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211103/Seamonkeys-website/gallery/TSR_Screenshot2_Comeback_130122_5PM_CET_prspxd_trqosm.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1696244867/TCM_Screen02_LAUNCH_140923_6PM_CEST_sqsdo9.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211107/Seamonkeys-website/gallery/TSR_screen_arena_fight_190820_9am_CET_1566248330_gztdzb_hjqei7.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1696244869/TCM_Announce_Screenshots_03_5884x3310_31012023_6PMCET_btnsfo.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211119/Seamonkeys-website/gallery/TSR_New_Screenshot_Maru_Village_bbqbmj_b1fbp7.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1696244868/TCM_Screenshot6_120623_0815PMCEST_jrgwfq.jpg
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1683211082/Seamonkeys-website/cards/card-portfolio_1_yot9qj_b7ehmu.jpg
