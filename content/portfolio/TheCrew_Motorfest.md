@@ -11,9 +11,11 @@ description_tag:
   en: All the info about The Crew Motorfest localization.
 project_name: The Crew Motorfest
 quote:
-  it: 'Un buon adattamento in italiano '
-  en: A good italian localization
-  witness: IGN
+  it: >-
+    Un festival che si svolge tutto l'anno, pensato per tutti gli appassionati
+    di motori!
+  en: An all-year round festival designed for all car enthusiasts!
+  witness: ''
 media:
   trailer:
     it: 'https://www.youtube.com/watch?v=1o__VfCAjns'
