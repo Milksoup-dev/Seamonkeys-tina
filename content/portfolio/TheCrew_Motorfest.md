@@ -60,6 +60,6 @@ info:
     en:
       - '---'
 reel: true
-reel_order: 3
+reel_order: 1
 ---
 
