@@ -18,8 +18,8 @@ quote:
   witness: ''
 media:
   trailer:
-    it: 'https://www.youtube.com/watch?v=1o__VfCAjns'
-    en: 'https://www.youtube.com/watch?v=1o__VfCAjns'
+    it: 'https://www.youtube.com/watch?v=cu-SCT1Mngk'
+    en: 'https://www.youtube.com/watch?v=cu-SCT1Mngk'
   video_reel: >-
     /v1683214741/Seamonkeys-website/video/showreel/The_Settlers_atcvte_y7gw56.mp4
   cover: >-
