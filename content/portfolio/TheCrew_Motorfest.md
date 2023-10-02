@@ -2,8 +2,8 @@
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1696244371/TCM_tag_image_wxkbxe.jpg
 title_tag:
-  it: 'Seamonkeys - The Settlers: New Allies'
-  en: 'Seamonkeys - The Settlers: New Allies'
+  it: Seamonkeys - The Crew Motorfest
+  en: Seamonkeys - The Crew Motorfest
 description_tag:
   it: >-
     Tutti i dettagli sull'adattamento di The Settlers: New Allies: lingue,
