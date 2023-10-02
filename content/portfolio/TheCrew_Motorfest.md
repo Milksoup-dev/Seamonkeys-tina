@@ -44,6 +44,7 @@ info:
     it: '2023'
     en: '2023'
   iso_codes:
+    - ES
     - IT
   registration_hours:
     it: '---'
@@ -53,8 +54,10 @@ info:
     en: '---'
   translations:
     it:
+      - spagnolo
       - Italiano
     en:
+      - spanish
       - Italian
   dubbing:
     it:
