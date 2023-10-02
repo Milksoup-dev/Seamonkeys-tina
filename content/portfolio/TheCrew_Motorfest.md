@@ -23,7 +23,7 @@ media:
   video_reel: >-
     /v1683214741/Seamonkeys-website/video/showreel/The_Settlers_atcvte_y7gw56.mp4
   cover: >-
-    https://res.cloudinary.com/seamonkeys/image/upload/v1696244372/TCM_cover_ynxtbt.jpg
+    https://res.cloudinary.com/seamonkeys/image/upload/v1696251645/TCM_cover_uivm48.jpg
   gallery:
     - >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1696244930/TCM_GameInfo_3_V2_1_mddqux.jpg
