@@ -64,7 +64,7 @@ info:
       - '---'
     en:
       - '---'
-reel: true
+reel: false
 reel_order: 1
 ---
 
