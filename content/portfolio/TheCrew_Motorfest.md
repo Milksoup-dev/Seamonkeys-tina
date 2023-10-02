@@ -54,10 +54,10 @@ info:
     en: '---'
   translations:
     it:
-      - spagnolo
+      - Spagnolo
       - Italiano
     en:
-      - spanish
+      - Spanish
       - Italian
   dubbing:
     it:
