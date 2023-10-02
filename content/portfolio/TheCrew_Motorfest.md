@@ -6,9 +6,9 @@ title_tag:
   en: Seamonkeys - The Crew Motorfest
 description_tag:
   it: >-
-    Tutti i dettagli sull'adattamento di The Settlers: New Allies: lingue,
-    parole, voci, ore di registrazione.
-  en: 'All the info about Watch Dogs: Legion localization.'
+    Tutti i dettagli sull'adattamento di The Crew Motorfest: lingue, parole,
+    voci, ore di registrazione.
+  en: All the info about The Crew Motorfest localization.
 project_name: The Crew Motorfest
 quote:
   it: 'Un buon adattamento in italiano '
