@@ -21,7 +21,7 @@ media:
     it: 'https://www.youtube.com/watch?v=cu-SCT1Mngk'
     en: 'https://www.youtube.com/watch?v=cu-SCT1Mngk'
   video_reel: >-
-    /v1683214741/Seamonkeys-website/video/showreel/The_Settlers_atcvte_y7gw56.mp4
+    /v1696261060/Seamonkeys-website/video/showreel/The_crew_motorfest_gnprls_jwhugk.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1696251645/TCM_cover_uivm48.jpg
   gallery:
