@@ -63,7 +63,7 @@ media:
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1683211083/Seamonkeys-website/cards/Assassins_creed_valhalla_t7ibrp_pnpner.jpg
-reel: true
+reel: false
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1683211092/Seamonkeys-website/meta/tag_image_assassins-creed-valhalla_j1lqus_qhpbii.jpg
 title_tag:
