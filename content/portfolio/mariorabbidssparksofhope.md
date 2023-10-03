@@ -34,7 +34,7 @@ info:
     en:
       - Italian
       - Spanish
-reel_order: 1
+reel_order: 2
 title_tag:
   it: 'Seamonkeys - Mario + Rabbids: Sparks of Hope'
   en: 'Seamonkeys - Mario + Rabbids: Sparks of Hope'
