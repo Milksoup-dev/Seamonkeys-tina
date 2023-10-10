@@ -43,7 +43,6 @@ info:
     en: 2022-2023
   iso_codes:
     - IT
-    - DE
     - ES-la
   registration_hours:
     it: Più di 800 ore di registrazione
