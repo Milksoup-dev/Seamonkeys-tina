@@ -6,9 +6,9 @@ title_tag:
   en: Seamonkeys – Assassin's Creed Mirage
 description_tag:
   it: >-
-    Tutti i dettagli sull'adattamento di Assassin's Creed Valhalla: lingue,
+    Tutti i dettagli sull'adattamento di Assassin's Creed Mirage: lingue,
     parole, voci, ore di registrazione.
-  en: All the info about Assassin’s Creed Valhalla localization.
+  en: All the info about Assassin’s Creed Mirage localization.
 project_name: Assassin's Creed Valhalla
 quote:
   it: >-
