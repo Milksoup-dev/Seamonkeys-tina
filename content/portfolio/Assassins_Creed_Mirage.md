@@ -6,8 +6,8 @@ title_tag:
   en: Seamonkeys – Assassin's Creed Mirage
 description_tag:
   it: >-
-    Tutti i dettagli sull'adattamento di Assassin's Creed Mirage: lingue,
-    parole, voci, ore di registrazione.
+    Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
+    parole, voci, ore.
   en: All the info about Assassin’s Creed Mirage localization.
 project_name: Assassin's Creed Mirage
 quote:
