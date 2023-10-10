@@ -1,40 +1,6 @@
 ---
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1683211106/Seamonkeys-website/meta/tag_image_fnzaiz_k1s3do.jpg
-info:
-  client:
-    it: Ubisoft
-    en: Ubisoft
-  period:
-    it: 2022 - 2023 (DLC)
-    en: 2022 - 2023 (DLC)
-  iso_codes:
-    - IT
-    - ES
-    - PT-br
-  registration_hours:
-    it: Più di 50 ore di registrazione
-    en: More than 50 hours of recordings
-  dubbed_voices:
-    it: '12'
-    en: '12'
-  translations:
-    it:
-      - Italiano
-      - Spagnolo
-      - Portoghese BR
-    en:
-      - Italian
-      - Spanish
-      - Portuguese BR
-  dubbing:
-    it:
-      - Italiano
-      - Spagnolo
-    en:
-      - Italian
-      - Spanish
-reel_order: 2
 title_tag:
   it: 'Seamonkeys - Mario + Rabbids: Sparks of Hope'
   en: 'Seamonkeys - Mario + Rabbids: Sparks of Hope'
@@ -68,6 +34,40 @@ media:
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1683211082/Seamonkeys-website/cards/card-portfolio_1_nanpa6_1_zzw7bz_f2pspi.jpg
+info:
+  client:
+    it: Ubisoft
+    en: Ubisoft
+  period:
+    it: 2022 - 2023 (DLC)
+    en: 2022 - 2023 (DLC)
+  iso_codes:
+    - IT
+    - ES
+    - PT-br
+  registration_hours:
+    it: Più di 50 ore di registrazione
+    en: More than 50 hours of recordings
+  dubbed_voices:
+    it: '12'
+    en: '12'
+  translations:
+    it:
+      - Italiano
+      - Spagnolo
+      - Portoghese BR
+    en:
+      - Italian
+      - Spanish
+      - Portuguese BR
+  dubbing:
+    it:
+      - Italiano
+      - Spagnolo
+    en:
+      - Italian
+      - Spanish
 reel: true
+reel_order: 3
 ---
 
