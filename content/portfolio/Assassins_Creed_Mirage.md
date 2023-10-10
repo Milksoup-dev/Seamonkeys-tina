@@ -2,8 +2,8 @@
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1696944000/tag_image_1_pbbnjv.jpg
 title_tag:
-  it: Seamonkeys – Assassin's Creed Valhalla
-  en: Seamonkeys – Assassin’s Creed Valhalla
+  it: Seamonkeys – Assassin's Creed Mirage
+  en: Seamonkeys – Assassin's Creed Mirage
 description_tag:
   it: >-
     Tutti i dettagli sull'adattamento di Assassin's Creed Valhalla: lingue,
