@@ -16,8 +16,8 @@ quote:
   witness: Mondo Xbox
 media:
   trailer:
-    it: 'https://www.youtube.com/watch?v=rVUyB9_1Z-M'
-    en: 'https://www.youtube.com/watch?v=rVUyB9_1Z-M'
+    it: 'https://www.youtube.com/watch?v=IRNOoOYVn80'
+    en: 'https://www.youtube.com/watch?v=keokwADkyUc'
   video_reel: >-
     /v1683211110/Seamonkeys-website/video/showreel/assassin_s_creed_valhalla_reel_sebd2x_ddqmky.mp4
   cover: >-
