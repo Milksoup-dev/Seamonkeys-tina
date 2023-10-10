@@ -53,11 +53,9 @@ info:
   translations:
     it:
       - Italiano
-      - Tedesco
       - Spagnolo Latam
     en:
       - Italian
-      - German
       - Spanish (Latam)
   dubbing:
     it:
