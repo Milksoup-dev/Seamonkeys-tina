@@ -1,41 +1,6 @@
 ---
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1683211098/Seamonkeys-website/meta/tag_image_gmrqml_nprbxx.jpg
-info:
-  client:
-    it: Ubisoft
-    en: Ubisoft
-  period:
-    it: '2022'
-    en: '2022'
-  iso_codes:
-    - IT
-    - ES
-    - PT-br
-    - ES-la
-  registration_hours:
-    it: '---'
-    en: '---'
-  dubbed_voices:
-    it: '---'
-    en: '---'
-  translations:
-    it:
-      - Italiano
-      - Spagnolo
-      - Spagnolo latam
-      - Portoghese BR
-    en:
-      - Italian
-      - Spanish
-      - Spanish latam
-      - Portuguese BR
-  dubbing:
-    it:
-      - '---'
-    en:
-      - '---'
-reel_order: 5
 title_tag:
   it: 'Seamonkeys - Valiant Hearts: Coming Home'
   en: 'Seamonkeys - Valiant Hearts: Coming Home'
@@ -73,6 +38,41 @@ media:
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1683211082/Seamonkeys-website/cards/card-portfolio_1_zm93sd_tsbw33.jpg
+info:
+  client:
+    it: Ubisoft
+    en: Ubisoft
+  period:
+    it: '2022'
+    en: '2022'
+  iso_codes:
+    - IT
+    - ES
+    - PT-br
+    - ES-la
+  registration_hours:
+    it: '---'
+    en: '---'
+  dubbed_voices:
+    it: '---'
+    en: '---'
+  translations:
+    it:
+      - Italiano
+      - Spagnolo
+      - Spagnolo latam
+      - Portoghese BR
+    en:
+      - Italian
+      - Spanish
+      - Spanish latam
+      - Portuguese BR
+  dubbing:
+    it:
+      - '---'
+    en:
+      - '---'
 reel: true
+reel_order: 4
 ---
 
