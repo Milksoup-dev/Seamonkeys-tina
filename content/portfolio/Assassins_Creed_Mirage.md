@@ -48,8 +48,8 @@ info:
     it: Più di 140 ore di registrazione
     en: More than 140 hours of recording
   dubbed_voices:
-    it: 70 voci uniche
-    en: 70 unique voices
+    it: 57 voci uniche
+    en: 57 unique voices
   translations:
     it:
       - Italiano
