@@ -9,17 +9,11 @@ description_tag:
     Tutti i dettagli sull'adattamento di Assassin's Creed Mirage: lingue,
     parole, voci, ore di registrazione.
   en: All the info about Assassin’s Creed Mirage localization.
-project_name: Assassin's Creed Valhalla
+project_name: Assassin's Creed Mirage
 quote:
-  it: >-
-    Canti norreni, suoni ambientali e un buon doppiaggio italiano contribuiscono
-    a dipingere un'atmosfera che trascina i sensi dei giocatori in un'orgia di
-    epicità e violenza.
-  en: >-
-    Norse songs, ambient sounds and a good Italian dub help to paint an
-    atmosphere that draws the senses of the players into an orgy of epic story
-    and violence.
-  witness: Everyeye
+  it: Una localizzazione italiana completa e di ottima qualità
+  en: 'A full italian localization, and an excellent one'
+  witness: Mondo Xbox
 media:
   trailer:
     it: 'https://www.youtube.com/watch?v=rVUyB9_1Z-M'
