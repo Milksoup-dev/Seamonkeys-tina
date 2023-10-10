@@ -39,8 +39,8 @@ info:
     it: Ubisoft
     en: Ubisoft
   period:
-    it: 2020 – DLC 2021
-    en: 2020 – DLC 2021
+    it: 2022-2023
+    en: 2022-2023
   iso_codes:
     - IT
     - DE
