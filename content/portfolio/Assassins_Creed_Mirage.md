@@ -60,10 +60,8 @@ info:
   dubbing:
     it:
       - Italiano
-      - Tedesco
     en:
       - Italian
-      - German
 reel: false
 reel_order: 2
 ---
