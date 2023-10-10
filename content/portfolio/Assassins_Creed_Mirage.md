@@ -19,7 +19,7 @@ media:
     it: 'https://www.youtube.com/watch?v=IRNOoOYVn80'
     en: 'https://www.youtube.com/watch?v=keokwADkyUc'
   video_reel: >-
-    /v1683211110/Seamonkeys-website/video/showreel/assassin_s_creed_valhalla_reel_sebd2x_ddqmky.mp4
+    /v1696960600/Seamonkeys-website/video/showreel/assassin_s_creed_mirage_fdul4m.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1696943817/cover_afo9f9.jpg
   gallery:
