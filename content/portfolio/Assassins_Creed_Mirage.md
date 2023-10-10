@@ -21,19 +21,10 @@ media:
   video_reel: >-
     /v1683211110/Seamonkeys-website/video/showreel/assassin_s_creed_valhalla_reel_sebd2x_ddqmky.mp4
   cover: >-
-    https://res.cloudinary.com/seamonkeys/image/upload/v1683211097/Seamonkeys-website/cover/assassins-creed-valhalla_cover_qsnpor_trnl2l.jpg
-  gallery:
-    - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211132/Seamonkeys-website/gallery/assassins_creed_valhalla_5_ugtakj_ufdprd.jpg
-    - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211136/Seamonkeys-website/gallery/assassins_creed_valhalla_6_wcy1br_mr0gjs.jpg
-    - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211131/Seamonkeys-website/gallery/assassins_creed_valhalla_7_hyg4wq_pmavku.jpg
-    - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211081/Seamonkeys-website/gallery/assassins_creed_valhalla_1_dlxtre_jdx0tm.jpg
+    https://res.cloudinary.com/seamonkeys/image/upload/v1696943817/cover_afo9f9.jpg
   card_image:
     normal: >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1683211083/Seamonkeys-website/cards/Assassins_creed_valhalla_t7ibrp_pnpner.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1696943816/card-portfolio_ccnefp.jpg
 info:
   client:
     it: Ubisoft
