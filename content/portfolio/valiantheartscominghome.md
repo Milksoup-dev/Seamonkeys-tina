@@ -16,7 +16,7 @@ quote:
     cieli impetuosi passando per le trincee del fronte occidentale
   en: >-
     An animated graphic novel-style adventure: from the depths of the sea and
-    the raging skies to the trenches of the Western
+    the raging skies to the trenches of the Western front
   witness: ''
 media:
   trailer:
