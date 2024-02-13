@@ -22,9 +22,9 @@ media:
     https://res.cloudinary.com/seamonkeys/image/upload/v1707817263/SAB_cover_jl3hk1.jpg
   gallery:
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1707817314/SaB_Screenshot03_TGA_071223_7-45PM-PT_gthc9o.jpg
-    - >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1707817318/SaB_Screenshot06_TGA_071223_7-45PM-PT_moy2z1.jpg
+    - >-
+      https://res.cloudinary.com/seamonkeys/image/upload/v1707817314/SaB_Screenshot03_TGA_071223_7-45PM-PT_gthc9o.jpg
     - >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1707817322/SaB_Screenshot07_TGA_071223_7-45PM-PT_q2s3fr.jpg
     - >-
