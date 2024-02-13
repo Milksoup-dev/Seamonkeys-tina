@@ -22,13 +22,13 @@ media:
     https://res.cloudinary.com/seamonkeys/image/upload/v1707817263/SAB_cover_jl3hk1.jpg
   gallery:
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944228/ACM_Screenshot1_120623_0815PMCEST_hbuqjq.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1707817314/SaB_Screenshot03_TGA_071223_7-45PM-PT_gthc9o.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944232/Chocking_Smoke_Bomb_GOLD_RGB_vx4qfr.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1707817318/SaB_Screenshot06_TGA_071223_7-45PM-PT_moy2z1.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944237/Flamethrower_Fight_GOLD_RGB_vsqtc8.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1707817322/SaB_Screenshot07_TGA_071223_7-45PM-PT_q2s3fr.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944241/Stealth_Throwing_Knives_GOLD_RGB_au3rue.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1707817327/SaB_Screenshot08_TGA_071223_7-45PM-PT_vo2ryo.jpg
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1696943816/card-portfolio_ccnefp.jpg
