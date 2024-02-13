@@ -2,8 +2,8 @@
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1707817139/SAB_tag_image_qspsps.jpg
 title_tag:
-  it: Seamonkeys – Assassin's Creed Mirage
-  en: Seamonkeys – Assassin's Creed Mirage
+  it: Seamonkeys – Skull and Bones
+  en: Seamonkeys – Skull and Bones
 description_tag:
   it: >-
     Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
