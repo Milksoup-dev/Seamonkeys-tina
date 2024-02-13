@@ -51,9 +51,11 @@ info:
     en: ''
   translations:
     it:
+      - Spagnolo
       - Italiano
       - Spagnolo Latam
     en:
+      - Spanish
       - Italian
       - Spanish (Latam)
   dubbing:
