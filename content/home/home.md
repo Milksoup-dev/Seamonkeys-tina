@@ -1,4 +1,16 @@
 ---
+image: >-
+  https://res.cloudinary.com/milksoup/image/upload/v1632414792/Seamonkeys/meta/tag_image_pce8ip.jpg
+title_tag:
+  it: "Seamonkeys \U0001F3AE Localization services & Recording Studios."
+  en: "Seamonkeys \U0001F3AE Localization services & Recording Studios."
+description_tag:
+  it: >-
+    Traduciamo, adattiamo e doppiamo videogiochi. Siamo a Milano ma abbiamo
+    partner in tutta Europa. Qui puoi trovare tutte le informazioni utili.
+  en: >-
+    Localization agency based in Milan, Italy, specialized in videogame
+    translation and dubbing. Find out more about us and our services here.
 sections:
   - section_title:
       it: Cosa facciamo
@@ -176,10 +188,6 @@ sections:
         logo: >-
           https://res.cloudinary.com/seamonkeys/image/upload/v1683211089/Seamonkeys-website/partners/perfect_sound_r4uuiy_c99jtd.png
         link: 'http://www.perfectsound.es/'
-      - brand: Mouse power
-        logo: >-
-          https://res.cloudinary.com/seamonkeys/image/upload/v1683211089/Seamonkeys-website/partners/mouse_power_ubl1sv_bonleo.png
-        link: 'https://mouse-power.de/'
     template: partners
   - section_title:
       it: Come lo facciamo
@@ -275,17 +283,5 @@ sections:
           it: 'mailto:info@seamonkeysloc.com?Subject=[RICHIESTA DI PREVENTIVO]'
           en: 'mailto:info@seamonkeysloc.com?Subject=[REQUEST A QUOTE]'
     template: how_we_do_it
-image: >-
-  https://res.cloudinary.com/milksoup/image/upload/v1632414792/Seamonkeys/meta/tag_image_pce8ip.jpg
-title_tag:
-  it: "Seamonkeys \U0001F3AE Localization services & Recording Studios."
-  en: "Seamonkeys \U0001F3AE Localization services & Recording Studios."
-description_tag:
-  it: >-
-    Traduciamo, adattiamo e doppiamo videogiochi. Siamo a Milano ma abbiamo
-    partner in tutta Europa. Qui puoi trovare tutte le informazioni utili.
-  en: >-
-    Localization agency based in Milan, Italy, specialized in videogame
-    translation and dubbing. Find out more about us and our services here.
 ---
 
