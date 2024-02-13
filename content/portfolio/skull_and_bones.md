@@ -5,10 +5,8 @@ title_tag:
   it: Seamonkeys – Skull and Bones
   en: Seamonkeys – Skull and Bones
 description_tag:
-  it: >-
-    Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
-    parole, voci, ore.
-  en: All the info about Assassin’s Creed Mirage localization.
+  it: Tutti i dettagli sulla localizzazione di Skull and Bones.
+  en: All the info about Skull and Bones localization.
 project_name: Skull and Bones
 quote:
   it: Una localizzazione italiana completa e di ottima qualità
