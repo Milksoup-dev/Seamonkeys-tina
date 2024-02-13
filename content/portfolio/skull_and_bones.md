@@ -58,11 +58,6 @@ info:
       - Spanish
       - Italian
       - Spanish (Latam)
-  dubbing:
-    it:
-      - Italiano
-    en:
-      - Italian
 reel: false
 reel_order: 1
 ---
