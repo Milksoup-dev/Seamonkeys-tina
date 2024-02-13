@@ -47,8 +47,8 @@ info:
     it: ''
     en: ''
   dubbed_voices:
-    it: 57 voci uniche
-    en: 57 unique voices
+    it: ''
+    en: ''
   translations:
     it:
       - Italiano
