@@ -31,7 +31,7 @@ media:
       https://res.cloudinary.com/seamonkeys/image/upload/v1707817327/SaB_Screenshot08_TGA_071223_7-45PM-PT_vo2ryo.jpg
   card_image:
     normal: >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1707817379/SAB_card-portfolio_r4hgcu.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1708074250/card-portfolio_SAB_jlpzpg.jpg
 info:
   client:
     it: Ubisoft
