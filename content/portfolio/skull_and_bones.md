@@ -9,9 +9,9 @@ description_tag:
   en: All the info about Skull and Bones localization.
 project_name: Skull and Bones
 quote:
-  it: Una localizzazione italiana completa e di ottima qualità
-  en: 'A full italian localization, and an excellent one'
-  witness: Mondo Xbox
+  it: Da naufraghi a temibili capi pirata
+  en: From nobody to the most fearsome pirate kingpin
+  witness: ''
 media:
   trailer:
     it: 'https://www.youtube.com/watch?v=OmDYo7MbQxo'
