@@ -43,8 +43,8 @@ info:
     - ' ES'
     - IT
   registration_hours:
-    it: ''
-    en: ''
+    it: '--'
+    en: '--'
   dubbed_voices:
     it: '--'
     en: '--'
