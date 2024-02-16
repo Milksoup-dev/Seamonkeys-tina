@@ -16,8 +16,7 @@ media:
   trailer:
     it: 'https://www.youtube.com/watch?v=OmDYo7MbQxo'
     en: 'https://www.youtube.com/watch?v=OmDYo7MbQxo'
-  video_reel: >-
-    /v1708075209/Seamonkeys-website/video/showreel/skull_and_bones_gea9lj.mp4
+  video_reel: /v1708075209/Seamonkeys-website/video/showreel/skull_and_bones_gea9lj.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1707817263/SAB_cover_jl3hk1.jpg
   gallery:
@@ -47,8 +46,8 @@ info:
     it: ''
     en: ''
   dubbed_voices:
-    it: ''
-    en: ''
+    it: '--'
+    en: '--'
   translations:
     it:
       - Spagnolo
