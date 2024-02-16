@@ -17,7 +17,7 @@ media:
     it: 'https://www.youtube.com/watch?v=OmDYo7MbQxo'
     en: 'https://www.youtube.com/watch?v=OmDYo7MbQxo'
   video_reel: >-
-    /v1696960600/Seamonkeys-website/video/showreel/assassin_s_creed_mirage_fdul4m.mp4
+    /v1708075209/Seamonkeys-website/video/showreel/skull_and_bones_gea9lj.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1707817263/SAB_cover_jl3hk1.jpg
   gallery:
