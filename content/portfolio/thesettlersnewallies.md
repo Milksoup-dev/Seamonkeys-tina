@@ -1,32 +1,6 @@
 ---
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1683211107/Seamonkeys-website/meta/tag_image_1_h3vqhg_vmij8b.jpg
-info:
-  client:
-    it: Ubisoft
-    en: Ubisoft
-  period:
-    it: '2023'
-    en: '2023'
-  iso_codes:
-    - IT
-  registration_hours:
-    it: '---'
-    en: '---'
-  dubbed_voices:
-    it: '---'
-    en: '---'
-  translations:
-    it:
-      - Italiano
-    en:
-      - Italian
-  dubbing:
-    it:
-      - '---'
-    en:
-      - '---'
-reel_order: 3
 title_tag:
   it: 'Seamonkeys - The Settlers: New Allies'
   en: 'Seamonkeys - The Settlers: New Allies'
@@ -60,6 +34,32 @@ media:
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1683211082/Seamonkeys-website/cards/card-portfolio_1_yot9qj_b7ehmu.jpg
-reel: true
+info:
+  client:
+    it: Ubisoft
+    en: Ubisoft
+  period:
+    it: '2023'
+    en: '2023'
+  iso_codes:
+    - IT
+  registration_hours:
+    it: '---'
+    en: '---'
+  dubbed_voices:
+    it: '---'
+    en: '---'
+  translations:
+    it:
+      - Italiano
+    en:
+      - Italian
+  dubbing:
+    it:
+      - '---'
+    en:
+      - '---'
+reel: false
+reel_order: 3
 ---
 
