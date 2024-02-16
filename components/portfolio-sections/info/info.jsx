@@ -49,7 +49,7 @@ export default function Info({project, lang}){
                                     <div className="ml-3">
                                         <div className="title is-5 has-text-white mb-2 ">{labels.client[lang]}</div>
                                         <div className="has-text-white-ter mb-6">
-                                            {project.info.client[lang]}
+                                            {project.info.client ? project.info.client[lang] : null}
                                         </div>
                                     </div>
                                 </li>
@@ -58,7 +58,7 @@ export default function Info({project, lang}){
                                     <Year width={24} height={24} />
                                     <div className="ml-3">
                                         <div className="title is-5 has-text-white mb-2">{labels.year[lang]}</div>
-                                        <div className="has-text-white-ter mb-6">{project.info.period[lang]}</div>
+                                        <div className="has-text-white-ter mb-6">{project.info.period ? project.info.period[lang] : null}</div>
                                     </div>
                                 </li>
                                 {/* Translations */}
@@ -67,7 +67,7 @@ export default function Info({project, lang}){
                                     <div className="ml-3">
                                         <div className="title is-5 has-text-white mb-2">{labels.translations[lang]}</div>
                                         <div className="has-text-white-ter">
-                                            {project.info.translations[lang].map(item => <span key={item} className={styles.item}>{item}</span>)}
+                                            {project.info.translations ? project.info.translations[lang].map(item => <span key={item} className={styles.item}>{item}</span>) : null}
                                         </div>
                                     </div>
                                 </li>
@@ -82,7 +82,7 @@ export default function Info({project, lang}){
                                     <Dubbing width={24} height={24} />
                                     <div className="ml-3">
                                         <div className="title is-5 has-text-white mb-2">{labels.dubbing[lang]}</div>
-                                        <div className="has-text-white-ter mb-6">{project.info.dubbing[lang].map(item => <span key={item} className={styles.item}>{item}</span>)}</div>
+                                        <div className="has-text-white-ter mb-6">{project.info.dubbing ? project.info.dubbing[lang].map(item => <span key={item} className={styles.item}>{item}</span>) : null}</div>
                                     </div>
                                 </li>
                                 {/* Dubbing voices */}
@@ -90,7 +90,7 @@ export default function Info({project, lang}){
                                     <Voices width={24} height={24} />
                                     <div className="ml-3">
                                         <div className="title is-5 has-text-white mb-2">{labels.dubbed_voices[lang]}</div>
-                                        <div className="has-text-white-ter mb-6">{project.info.dubbed_voices[lang]}</div>
+                                        <div className="has-text-white-ter mb-6">{project.info.dubbed_voices ? project.info.dubbed_voices[lang] : null}</div>
                                     </div>
                                 </li>
                                 {/* Hours of registration */}
@@ -98,7 +98,7 @@ export default function Info({project, lang}){
                                     <Registration width={24} height={24} />
                                     <div className="ml-3">
                                         <div className="title is-5 has-text-white mb-2">{labels.hours_of_recording[lang]}</div>
-                                        <div className="has-text-white-ter">{project.info.registration_hours[lang]}</div>
+                                        <div className="has-text-white-ter">{project.info.registration_hours ? project.info.registration_hours[lang] : null}</div>
                                     </div>
                                 </li>
                             </ul>
