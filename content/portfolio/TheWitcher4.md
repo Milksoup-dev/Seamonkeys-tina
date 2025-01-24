@@ -22,6 +22,9 @@ info:
   client:
     it: CD Projekt RED
     en: CD Projekt RED
+  period:
+    it: In corso
+    en: In progress
 reel: false
 ---
 
