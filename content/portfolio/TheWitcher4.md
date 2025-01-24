@@ -18,6 +18,10 @@ media:
   card_image:
     normal: >-
       https://res.cloudinary.com/seamonkeys/image/upload/v1737713771/card-portfolio_cuopgc.jpg
+info:
+  client:
+    it: CD Projekt RED
+    en: CD Projekt RED
 reel: false
 ---
 
