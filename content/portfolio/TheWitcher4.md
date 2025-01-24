@@ -1,6 +1,9 @@
 ---
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1737713762/tag_image_eryamt.jpg
+title_tag:
+  it: Seamonkeys – The Witcher IV
+  en: Seamonkeys – The Witcher IV
 project_name: The Witcher IV
 quote:
   it: Dèi? Non ci sono dèi qui. Ci sono solo mostri.
