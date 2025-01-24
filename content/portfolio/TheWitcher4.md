@@ -25,6 +25,9 @@ info:
   period:
     it: In corso
     en: In progress
+  registration_hours:
+    it: ND
+    en: N/A
 reel: false
 ---
 
