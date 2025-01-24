@@ -58,6 +58,6 @@ info:
       - Italian
       - Spanish (Latam)
 reel: true
-reel_order: 1
+reel_order: 2
 ---
 
