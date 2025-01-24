@@ -14,6 +14,9 @@ quote:
   it: Dèi? Non ci sono dèi qui. Ci sono solo mostri.
   en: Gods? There are no gods here… There are only monsters.
 media:
+  trailer:
+    it: 'https://www.thewitcher.com/us/it/witcher4'
+    en: 'https://www.thewitcher.com/us/it/witcher4'
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1737713768/cover_hmai6g.jpg
   gallery:
