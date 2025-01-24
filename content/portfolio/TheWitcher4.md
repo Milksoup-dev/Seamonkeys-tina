@@ -17,6 +17,7 @@ media:
   trailer:
     it: 'https://www.thewitcher.com/us/it/witcher4'
     en: 'https://www.thewitcher.com/us/it/witcher4'
+  video_reel: /v1737740528/Seamonkeys-website/video/showreel/The_witcher_u0cny4.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1737713768/cover_hmai6g.jpg
   gallery:
