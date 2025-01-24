@@ -28,6 +28,9 @@ info:
   registration_hours:
     it: ND
     en: N/A
+  dubbed_voices:
+    it: ND
+    en: N/A
 reel: false
 ---
 
