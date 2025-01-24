@@ -31,6 +31,11 @@ info:
   dubbed_voices:
     it: ND
     en: N/A
+  translations:
+    it:
+      - IT
+    en:
+      - IT
 reel: false
 ---
 
