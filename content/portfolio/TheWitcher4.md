@@ -38,9 +38,9 @@ info:
       - IT
   dubbing:
     it:
-      - IT
+      - Italiano
     en:
-      - IT
+      - Italian
 reel: false
 ---
 
