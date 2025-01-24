@@ -33,9 +33,9 @@ info:
     en: N/A
   translations:
     it:
-      - IT
+      - Italiano
     en:
-      - IT
+      - Italian
   dubbing:
     it:
       - Italiano
