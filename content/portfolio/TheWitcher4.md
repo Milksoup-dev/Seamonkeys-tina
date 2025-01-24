@@ -57,6 +57,7 @@ info:
       - Italiano
     en:
       - Italian
-reel: false
+reel: true
+reel_order: 1
 ---
 
