@@ -36,6 +36,11 @@ info:
       - IT
     en:
       - IT
+  dubbing:
+    it:
+      - IT
+    en:
+      - IT
 reel: false
 ---
 
