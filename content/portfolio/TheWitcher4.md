@@ -4,6 +4,11 @@ image: >-
 title_tag:
   it: Seamonkeys – The Witcher IV
   en: Seamonkeys – The Witcher IV
+description_tag:
+  it: >-
+    Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
+    parole, voci, ore.
+  en: All the info about Assassin’s Creed Mirage localization.
 project_name: The Witcher IV
 quote:
   it: Dèi? Non ci sono dèi qui. Ci sono solo mostri.
