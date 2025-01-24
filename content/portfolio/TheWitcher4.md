@@ -38,6 +38,8 @@ info:
   period:
     it: In corso
     en: In progress
+  iso_codes:
+    - IT
   registration_hours:
     it: ND
     en: N/A
