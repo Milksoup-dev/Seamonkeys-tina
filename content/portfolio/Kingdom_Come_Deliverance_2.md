@@ -40,8 +40,8 @@ info:
     it: 2023-2025
     en: 2023-2025
   iso_codes:
+    - FR
     - IT
-    - ES-la
   registration_hours:
     it: Più di 140 ore di registrazione
     en: More than 140 hours of recording
