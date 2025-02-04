@@ -2,8 +2,8 @@
 image: >-
   https://res.cloudinary.com/seamonkeys/image/upload/v1738677386/tag_image_z42uqi.jpg
 title_tag:
-  it: Seamonkeys – Assassin's Creed Mirage
-  en: Seamonkeys – Assassin's Creed Mirage
+  it: Seamonkeys – Kingdom Come Deliverance II
+  en: Seamonkeys – Kingdom Come Deliverance II
 description_tag:
   it: >-
     Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
