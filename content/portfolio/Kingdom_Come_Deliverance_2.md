@@ -6,9 +6,9 @@ title_tag:
   en: Seamonkeys – Kingdom Come Deliverance II
 description_tag:
   it: >-
-    Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
-    parole, voci, ore.
-  en: All the info about Assassin’s Creed Mirage localization.
+    Tutti i dettagli sulla localizzazione di Kingdom Come Deliverance II:
+    lingue, parole, voci, ore.
+  en: All the info about Kingdom Come Deliverance II localization.
 project_name: Assassin's Creed Mirage
 quote:
   it: Una localizzazione italiana completa e di ottima qualità
