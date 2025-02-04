@@ -55,11 +55,6 @@ info:
     en:
       - Italian
       - Spanish (Latam)
-  dubbing:
-    it:
-      - Italiano
-    en:
-      - Italian
 reel: true
 reel_order: 2
 ---
