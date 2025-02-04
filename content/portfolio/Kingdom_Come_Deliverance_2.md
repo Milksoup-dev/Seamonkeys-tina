@@ -21,19 +21,17 @@ media:
   video_reel: >-
     /v1696960600/Seamonkeys-website/video/showreel/assassin_s_creed_mirage_fdul4m.mp4
   cover: >-
-    https://res.cloudinary.com/seamonkeys/image/upload/v1696943817/cover_afo9f9.jpg
+    https://res.cloudinary.com/seamonkeys/image/upload/v1738677383/cover_bycjys.jpg
   gallery:
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944228/ACM_Screenshot1_120623_0815PMCEST_hbuqjq.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1738677557/KCD2_Announce_10_Clinch-1920_nz6xyk.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944232/Chocking_Smoke_Bomb_GOLD_RGB_vx4qfr.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1738677570/KCDII_screenshot_Oct_3-1920_ei1lvn.jpg
     - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944237/Flamethrower_Fight_GOLD_RGB_vsqtc8.jpg
-    - >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696944241/Stealth_Throwing_Knives_GOLD_RGB_au3rue.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1738677587/kcdii_gamescom-screen_bandits-1920_moprgo.jpg
   card_image:
     normal: >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696943816/card-portfolio_ccnefp.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1738677379/card-portfolio_sdcc6c.jpg
 info:
   client:
     it: Ubisoft
