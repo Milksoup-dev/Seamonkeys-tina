@@ -9,11 +9,11 @@ description_tag:
     Tutti i dettagli sulla localizzazione di Kingdom Come Deliverance II:
     lingue, parole, voci, ore.
   en: All the info about Kingdom Come Deliverance II localization.
-project_name: Assassin's Creed Mirage
+project_name: Kingdom Come Deliverance II
 quote:
-  it: Una localizzazione italiana completa e di ottima qualità
-  en: 'A full italian localization, and an excellent one'
-  witness: Mondo Xbox
+  it: Dialoghi di altissimi livello.
+  en: Top class Italian dialogues.
+  witness: Multiplayer.it
 media:
   trailer:
     it: 'https://www.youtube.com/watch?v=IRNOoOYVn80'
