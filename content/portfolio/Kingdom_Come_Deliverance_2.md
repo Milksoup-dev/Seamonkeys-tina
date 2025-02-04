@@ -43,8 +43,8 @@ info:
     - FR
     - IT
   registration_hours:
-    it: Più di 140 ore di registrazione
-    en: More than 140 hours of recording
+    it: ''
+    en: ''
   dubbed_voices:
     it: ''
     en: ''
