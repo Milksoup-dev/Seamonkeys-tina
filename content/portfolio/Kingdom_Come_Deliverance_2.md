@@ -34,8 +34,8 @@ media:
       https://res.cloudinary.com/seamonkeys/image/upload/v1738677379/card-portfolio_sdcc6c.jpg
 info:
   client:
-    it: Ubisoft
-    en: Ubisoft
+    it: Warhorse Studios
+    en: Warhorse Studios
   period:
     it: 2022-2023
     en: 2022-2023
