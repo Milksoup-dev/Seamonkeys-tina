@@ -53,6 +53,11 @@ info:
       - Italiano
     en:
       - Italian
+  dubbing:
+    it:
+      - '-'
+    en:
+      - '-'
 reel: true
 reel_order: 2
 ---
