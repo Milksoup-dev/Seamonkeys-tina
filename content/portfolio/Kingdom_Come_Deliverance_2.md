@@ -19,7 +19,7 @@ media:
     it: 'https://www.youtube.com/watch?v=vPS-pgg3scE'
     en: 'https://www.youtube.com/watch?v=vPS-pgg3scE'
   video_reel: >-
-    /v1696960600/Seamonkeys-website/video/showreel/assassin_s_creed_mirage_fdul4m.mp4
+    /v1738763063/Seamonkeys-website/video/showreel/kingdom_come_deliverance_ilersw.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1738677383/cover_bycjys.jpg
   gallery:
