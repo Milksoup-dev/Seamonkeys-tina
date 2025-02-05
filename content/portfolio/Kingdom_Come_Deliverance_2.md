@@ -46,8 +46,8 @@ info:
     it: '-'
     en: '-'
   dubbed_voices:
-    it: ''
-    en: ''
+    it: '-'
+    en: '-'
   translations:
     it:
       - Italiano
