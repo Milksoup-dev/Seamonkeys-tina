@@ -51,10 +51,8 @@ info:
   translations:
     it:
       - Italiano
-      - Spagnolo Latam
     en:
       - Italian
-      - Spanish (Latam)
 reel: true
 reel_order: 2
 ---
