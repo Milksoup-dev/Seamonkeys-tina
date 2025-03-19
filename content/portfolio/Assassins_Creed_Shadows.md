@@ -9,7 +9,7 @@ description_tag:
     Tutti i dettagli sulla localizzazione di Assassin's Creed Shadows: lingue,
     parole, voci, ore.
   en: All the info about Assassin’s Creed Shadows localization.
-project_name: Assassin's Creed Mirage
+project_name: Assassin's Creed Shadows
 quote:
   it: Una localizzazione italiana completa e di ottima qualità
   en: 'A full italian localization, and an excellent one'
