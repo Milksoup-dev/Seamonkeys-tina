@@ -68,7 +68,7 @@ info:
     en:
       - Spanish
       - Italian
-reel: true
+reel: false
 reel_order: 1
 ---
 
