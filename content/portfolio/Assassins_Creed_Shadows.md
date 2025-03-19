@@ -11,9 +11,13 @@ description_tag:
   en: All the info about Assassin’s Creed Shadows localization.
 project_name: Assassin's Creed Shadows
 quote:
-  it: Una localizzazione italiana completa e di ottima qualità
-  en: 'A full italian localization, and an excellent one'
-  witness: Mondo Xbox
+  it: >-
+    Ci sentiamo di premiare a pieni voti l'ottimo doppiaggio in italiano, ricco
+    di numerosi interpreti e di un eccellente missaggio del sonoro
+  en: >-
+    We wholeheartedly commend the excellent Italian dubbing, with its varied
+    cast and a wonderful audio mix
+  witness: Multiplayer.it
 media:
   trailer:
     it: 'https://www.youtube.com/watch?v=IRNOoOYVn80'
