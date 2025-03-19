@@ -37,7 +37,7 @@ media:
       https://res.cloudinary.com/seamonkeys/image/upload/v1742394157/ACSH_Screenshot_3_Announce_15052024_6PM_CEST_tzzsgd.jpg
   card_image:
     normal: >-
-      https://res.cloudinary.com/seamonkeys/image/upload/v1696943816/card-portfolio_ccnefp.jpg
+      https://res.cloudinary.com/seamonkeys/image/upload/v1742394853/card-portfolio_kb8lkq.jpg
 info:
   client:
     it: Ubisoft
