@@ -20,8 +20,8 @@ quote:
   witness: Multiplayer.it
 media:
   trailer:
-    it: 'https://www.youtube.com/watch?v=IRNOoOYVn80'
-    en: 'https://www.youtube.com/watch?v=keokwADkyUc'
+    it: ''
+    en: ''
   video_reel: >-
     /v1696960600/Seamonkeys-website/video/showreel/assassin_s_creed_mirage_fdul4m.mp4
   cover: >-
@@ -46,8 +46,8 @@ info:
     it: 2024-2025
     en: 2024-2025
   iso_codes:
+    - ES
     - IT
-    - ES-la
   registration_hours:
     it: Più di 140 ore di registrazione
     en: More than 140 hours of recording
