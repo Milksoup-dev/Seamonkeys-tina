@@ -63,8 +63,10 @@ info:
       - Spanish (Latam)
   dubbing:
     it:
+      - Spagnolo
       - Italiano
     en:
+      - Spanish
       - Italian
 reel: true
 reel_order: 1
