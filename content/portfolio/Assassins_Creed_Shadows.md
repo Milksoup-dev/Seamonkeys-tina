@@ -6,9 +6,9 @@ title_tag:
   en: Seamonkeys – Assassin's Creed Shadows
 description_tag:
   it: >-
-    Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
+    Tutti i dettagli sulla localizzazione di Assassin's Creed Shadows: lingue,
     parole, voci, ore.
-  en: All the info about Assassin’s Creed Mirage localization.
+  en: All the info about Assassin’s Creed Shadows localization.
 project_name: Assassin's Creed Mirage
 quote:
   it: Una localizzazione italiana completa e di ottima qualità
