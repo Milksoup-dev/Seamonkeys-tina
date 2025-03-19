@@ -15,8 +15,8 @@ quote:
     Ci sentiamo di premiare a pieni voti l'ottimo doppiaggio in italiano, ricco
     di numerosi interpreti e di un eccellente missaggio del sonoro
   en: >-
-    We wholeheartedly commend the excellent Italian dubbing, with its varied
-    cast and a wonderful audio mix
+    We give full marks to the excellent Italian dubbing, with its great variety
+    of voice actors and outstanding sound mixing
   witness: Multiplayer.it
 media:
   trailer:
