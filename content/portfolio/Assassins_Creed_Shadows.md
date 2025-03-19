@@ -1,9 +1,9 @@
 ---
 image: >-
-  https://res.cloudinary.com/seamonkeys/image/upload/v1696944000/tag_image_1_pbbnjv.jpg
+  https://res.cloudinary.com/seamonkeys/image/upload/v1742393762/tag_image_ndphs5.jpg
 title_tag:
-  it: Seamonkeys – Assassin's Creed Mirage
-  en: Seamonkeys – Assassin's Creed Mirage
+  it: Seamonkeys – Assassin's Creed Shadows
+  en: Seamonkeys – Assassin's Creed Shadows
 description_tag:
   it: >-
     Tutti i dettagli sulla localizzazione di Assassin's Creed Mirage: lingue,
