@@ -11,8 +11,8 @@ description_tag:
   en: 'All the info about Mario + Rabbids: Sparks of Hope localization.'
 project_name: 'Mario + Rabbids: Sparks of Hope'
 quote:
-  it: Un’ottima localizzazione in italiano e un doppiaggio ben recitato.
-  en: A top notch localization and a solid dubbing.
+  it: Un’ottima localizzazione in italiano e un doppiaggio ben recitato
+  en: A top notch localization and a solid dubbing
   witness: Game Division
 media:
   trailer:
