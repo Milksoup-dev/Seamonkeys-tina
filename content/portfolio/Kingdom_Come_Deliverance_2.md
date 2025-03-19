@@ -11,8 +11,8 @@ description_tag:
   en: All the info about Kingdom Come Deliverance II localization.
 project_name: Kingdom Come Deliverance II
 quote:
-  it: Dialoghi di altissimo livello.
-  en: Top class Italian dialogues.
+  it: Dialoghi di altissimo livello
+  en: Top class Italian dialogues
   witness: Multiplayer.it
 media:
   trailer:
