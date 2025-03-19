@@ -11,8 +11,8 @@ description_tag:
   en: All the info about Assassin’s Creed Mirage localization.
 project_name: The Witcher IV
 quote:
-  it: Dèi? Non ci sono dèi qui. Ci sono solo mostri.
-  en: Gods? There are no gods here… There are only monsters.
+  it: Dèi? Non ci sono dèi qui. Ci sono solo mostri
+  en: Gods? There are no gods here… There are only monsters
 media:
   trailer:
     it: 'https://www.youtube.com/watch?v=N_Rfnz7pB4g'
