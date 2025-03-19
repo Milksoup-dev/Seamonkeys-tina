@@ -43,8 +43,8 @@ info:
     it: Ubisoft
     en: Ubisoft
   period:
-    it: 2022-2023
-    en: 2022-2023
+    it: 2024-2025
+    en: 2024-2025
   iso_codes:
     - IT
     - ES-la
