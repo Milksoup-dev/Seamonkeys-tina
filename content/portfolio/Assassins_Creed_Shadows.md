@@ -23,7 +23,7 @@ media:
     it: ''
     en: ''
   video_reel: >-
-    /v1696960600/Seamonkeys-website/video/showreel/assassin_s_creed_mirage_fdul4m.mp4
+    /v1742463196/Seamonkeys-website/video/showreel/assassin_s_creed_shadows_world_p2sxwc.mp4
   cover: >-
     https://res.cloudinary.com/seamonkeys/image/upload/v1742394121/cover_rpzqkq.jpg
   gallery:
