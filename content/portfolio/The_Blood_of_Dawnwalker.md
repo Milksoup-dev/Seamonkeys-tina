@@ -16,14 +16,9 @@ media:
     it: ''
     en: ''
   video_reel: /v1742463196/Seamonkeys-website/video/showreel/assassin_s_creed_shadows_world_p2sxwc.mp4
-  cover: 'https://res.cloudinary.com/seamonkeys/image/upload/v1742394121/cover_rpzqkq.jpg'
-  gallery:
-    - 'https://res.cloudinary.com/seamonkeys/image/upload/v1742394145/ACSH_172_Screenshot_Previews_NaoeAndYaya_Jan23_sbklrv.jpg'
-    - 'https://res.cloudinary.com/seamonkeys/image/upload/v1742394149/ACSH_181_Screenshot_Previews_NobleQuest_Jan23_mvptqd.jpg'
-    - 'https://res.cloudinary.com/seamonkeys/image/upload/v1742394152/ACSH_Screenshot_2_Announce_15052024_6PM_CEST_rtisf6.jpg'
-    - 'https://res.cloudinary.com/seamonkeys/image/upload/v1742394157/ACSH_Screenshot_3_Announce_15052024_6PM_CEST_tzzsgd.jpg'
+  cover: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524451/cover_awjsle.jpg'
   card_image:
-    normal: 'https://res.cloudinary.com/seamonkeys/image/upload/v1742394853/card-portfolio_kb8lkq.jpg'
+    normal: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524512/card-portfolio_ldblvo.jpg'
 info:
   client:
     it: Ubisoft
