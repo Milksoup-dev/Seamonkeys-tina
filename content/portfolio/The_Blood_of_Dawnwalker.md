@@ -23,7 +23,7 @@ media:
     - 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524683/the-blood-of-dawnwalker-screenshot-07_logo_ldxpyp.jpg'
     - 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524567/the-blood-of-dawnwalker-screenshot-02_logo_k4opd2.jpg'
   card_image:
-    normal: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524512/card-portfolio_ldblvo.jpg'
+    normal: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788525473/card-portfolio_2_xiqouq.jpg'
 info:
   client:
     it: Rebel Wolves
