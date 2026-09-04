@@ -26,8 +26,8 @@ media:
     normal: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524512/card-portfolio_ldblvo.jpg'
 info:
   client:
-    it: Ubisoft
-    en: Ubisoft
+    it: Rebel Wolves
+    en: Rebel Wolves
   period:
     it: 2024-2025
     en: 2024-2025
