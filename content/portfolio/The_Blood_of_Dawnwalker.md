@@ -32,9 +32,9 @@ info:
     it: 2024-2026
     en: 2024-2026
   iso_codes:
-    - ES-la
-    - ES
     - IT
+    - ES
+    - ES-la
   registration_hours:
     it: Più di 390 ore di registrazione
     en: More than 390 hours of recording
