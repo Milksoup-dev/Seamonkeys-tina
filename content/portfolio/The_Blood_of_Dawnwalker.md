@@ -8,9 +8,9 @@ description_tag:
   en: All the info about Assassin’s Creed Shadows localization.
 project_name: The Blood of Dawnwalker
 quote:
-  it: 'Ci sentiamo di premiare a pieni voti l''ottimo doppiaggio in italiano, ricco di numerosi interpreti e di un eccellente missaggio del sonoro'
-  en: 'We give full marks to the excellent Italian dubbing, with its great variety of voice actors and outstanding sound mixing'
-  witness: Multiplayer.it
+  it: 'Doppiaggio in italiano di ottima fattura '
+  en: Italian dubbing is excellent
+  witness: Everyeye.it
 media:
   trailer:
     it: ''
