@@ -32,6 +32,7 @@ info:
     it: 2024-2026
     en: 2024-2026
   iso_codes:
+    - ES-la
     - ES
     - IT
   registration_hours:
@@ -49,11 +50,11 @@ info:
       - Spanish (Latam)
   dubbing:
     it:
-      - Spagnolo
       - Italiano
+      - Francese
     en:
-      - Spanish
       - Italian
+      - French
 reel: true
 reel_order: 1
 ---
