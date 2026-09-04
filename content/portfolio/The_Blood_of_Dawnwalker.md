@@ -29,8 +29,8 @@ info:
     it: Rebel Wolves
     en: Rebel Wolves
   period:
-    it: 2024-2025
-    en: 2024-2025
+    it: 2024-2026
+    en: 2024-2026
   iso_codes:
     - ES
     - IT
