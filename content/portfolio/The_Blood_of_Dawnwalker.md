@@ -1,12 +1,12 @@
 ---
-image: 'https://res.cloudinary.com/seamonkeys/image/upload/v1742393762/tag_image_ndphs5.jpg'
+image: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524238/tag_image_h37vwo.jpg'
 title_tag:
   it: Seamonkeys – Assassin's Creed Shadows
   en: Seamonkeys – Assassin's Creed Shadows
 description_tag:
   it: 'Tutti i dettagli sulla localizzazione di Assassin''s Creed Shadows: lingue, parole, voci, ore.'
   en: All the info about Assassin’s Creed Shadows localization.
-project_name: Assassin's Creed Shadows
+project_name: The Blood of Dawnwalker
 quote:
   it: 'Ci sentiamo di premiare a pieni voti l''ottimo doppiaggio in italiano, ricco di numerosi interpreti e di un eccellente missaggio del sonoro'
   en: 'We give full marks to the excellent Italian dubbing, with its great variety of voice actors and outstanding sound mixing'
