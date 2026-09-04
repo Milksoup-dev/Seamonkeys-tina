@@ -16,7 +16,7 @@ media:
     it: ''
     en: ''
   video_reel: /v1742463196/Seamonkeys-website/video/showreel/assassin_s_creed_shadows_world_p2sxwc.mp4
-  cover: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524451/cover_awjsle.jpg'
+  cover: 'https://res.cloudinary.com/seamonkeys/image/upload/v1788525499/the-blood-of-dawnwalker-key-art_abmllf.jpg'
   gallery:
     - 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524712/the-blood-of-dawnwalker-screenshot-april2026-02_votfbz.jpg'
     - 'https://res.cloudinary.com/seamonkeys/image/upload/v1788524666/the-blood-of-dawnwalker-screenshot-03_logo_xubzwp.jpg'
