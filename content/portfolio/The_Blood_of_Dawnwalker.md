@@ -36,8 +36,8 @@ info:
     - ES
     - ES-la
   registration_hours:
-    it: Più di 390 ore di registrazione
-    en: More than 390 hours of recording
+    it: ''
+    en: ''
   dubbed_voices:
     it: 89 voci uniche
     en: 89 unique voices
